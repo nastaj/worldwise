@@ -25,16 +25,16 @@
       "id": 17806751
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "cityName": "Olbramovice",
+      "country": "Czechia",
+      "emoji": "🇨🇿",
+      "date": "2023-09-14T12:53:40.029Z",
+      "notes": "",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": "49.66762782262194",
+        "lng": "14.633789062500002"
       },
-      "id": 98443197
+      "id": 73930386
     }
   ]
 }
